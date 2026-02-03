@@ -13,7 +13,7 @@ go run cmd/app/main.go
 ```
 
 ## Folder Structure
-sqs-poc/
+```sqs-poc/
 ├── cmd/
 │   └── app/
 │       └── main.go
@@ -28,3 +28,4 @@ sqs-poc/
 ├── .gitignore
 ├── go.mod
 └── README.md
+```
