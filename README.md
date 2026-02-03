@@ -10,6 +10,7 @@
 ## Run
 ```bash
 go run cmd/app/main.go
+```
 
 ## Folder Structure
 sqs-poc/
